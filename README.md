@@ -1,0 +1,2 @@
+# Belfegor-stealer
+Educational purpose
